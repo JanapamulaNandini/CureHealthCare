@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="project3">
+<test name="curehealthcare">
+<classes>
+<class name="testNG_curehealthcare.HistoryCure_TestNG"/>
+<class name="testNG_curehealthcare.Logincure_TestNG"/>
+<class name="testNG_curehealthcare.LogoutC_TestNG"/>
+<class name="testNG_curehealthcare.MakeAppCure_TestNG"/>
+<class name="testNG_curehealthcare.ProfileCure_TestNG"/>
+<class name="testNG_curehealthcare.WithoutLoginapp_TestNG"/>
+
+</classes>
+</test>
+</suite>
